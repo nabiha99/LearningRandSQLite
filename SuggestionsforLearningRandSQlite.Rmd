@@ -1,9 +1,7 @@
----
-title: "Suggestions for Introduction to Data Science"
-author: "Nabiha Huq Saifee"
-date: "November 24, 2014"
-output: html_document
----
+##Suggestions for Introduction to Data Science
+####*Written November 24, 2014*
+####*By Nabiha Huq Saifee, PGY-2*
+
 #####Resources for learning R:  
 
 * "The Data Scientist’s Toolbox" - the first course in the Coursera Data Science Specialization track offered by Johns Hopkins.  
