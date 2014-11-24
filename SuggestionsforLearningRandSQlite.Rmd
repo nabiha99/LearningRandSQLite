@@ -1,4 +1,4 @@
-##Suggestions for Introduction to Data Science
+##My approach to learning about Data Science
 ####*Written November 24, 2014*
 ####*By Nabiha Huq Saifee, PGY-2*
 
@@ -16,12 +16,12 @@
     + Provides beginner, intermediate, and advanced tutorials for R  
      
 * Introdution to data cleaning http://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf  
-    + Includes nice basic R overview to test your understanding of R
+     +  Includes nice basic R overview to test your understanding of R
 
 #####Create documents in R
 
-* Use knitr with Rstudio.  
-  + Watch introductory video on how to install and get started with Rstudio http://yihui.name/knitr/  
+* Use knitr with Rstudio.   
+      + Watch introductory video on how to install and get started with Rstudio http://yihui.name/knitr/  
      
 #####Resources for learning SQL: 
 
