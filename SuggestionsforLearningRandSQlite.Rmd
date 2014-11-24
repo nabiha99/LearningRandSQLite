@@ -53,5 +53,6 @@
 * To switch between windows in same application Command+Tilde(~)
 * To switch between different applications Command+tab
 
+Find this RMarkdown file at https://github.com/nabiha99/LearningRandSQLite
 
 
