@@ -1,0 +1,59 @@
+---
+title: "Suggestions for Introduction to Data Science"
+author: "Nabiha Huq Saifee"
+date: "November 24, 2014"
+output: html_document
+---
+#####Resources for learning R:  
+
+* "The Data Scientist’s Toolbox" - the first course in the Coursera Data Science Specialization track offered by Johns Hopkins.  
+    + https://www.coursera.org/course/datascitoolbox
+    + Good overview of some data science tools including how to install and get started with R, Rstudio, and GitHub.
+    
+* Coursera R programming course - part of the same JHU Data Science Specialization pathway.    
+    + Good overview of R with quizes and programming projects that help solidify knowledge. 
+    + See other advance course offerings: https://www.coursera.org/specialization/jhudatascience/1/courses
+    
+* Swirl package http://swirlstats.com/ and https://github.com/swirldev/swirl_courses#swirl-courses  
+    + Provides beginner, intermediate, and advanced tutorials for R  
+     
+* Introdution to data cleaning http://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf  
+    + Includes nice basic R overview to test your understanding of R
+
+#####Create documents in R
+
+* Use knitr with Rstudio.  
+  + Watch introductory video on how to install and get started with Rstudio http://yihui.name/knitr/  
+     
+#####Resources for learning SQL: 
+
+  * Noah Hoffman's introductory lecture on databases http://nhoffman.github.io/borborygmi/database-intro.html  
+    + Easy to follow introduction with simple SQLite examples
+    + Also see this sqlite tutorial http://zetcode.com/db/sqlite/tool/
+    + Try the following code to make SQLite output more readable   
+```{r eval =FALSE}
+.mode columns #column mode
+.headers on #show headers
+``` 
+  * Stanford Online Introduction to Database courses https://class.stanford.edu/courses/DB/2014/SelfPaced/about  
+  * RSQLite http://cran.r-project.org/web/packages/RSQLite/index.html
+    + R interface for SQLite
+    + Example of using RSQLite http://faculty.washington.edu/kenrice/sisg-adv/exampleSQLite.R
+    + Introduction to creating SQLite databases with R http://sandymuspratt.blogspot.com/2012/11/r-and-sqlite-part-1.html
+    
+#####Resources for GitHub:  
+
+  * GitHub introduciton in Data Scientist's Toolbox https://www.coursera.org/course/datascitoolbox 
+  * Basic introduction to GitHub  
+    + http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1  
+    + http://readwrite.com/2013/10/02/github-for-beginners-part-2  
+  
+#####Keyboard Shortcuts
+
+* R studio shortcuts for Windows or Mac https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts
+* To run current line/selection of code use Command+Enter
+* To switch between windows in same application Command+Tilde(~)
+* To switch between different applications Command+tab
+
+
+
