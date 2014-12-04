@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 ##My approach to learning about Data Science
 ####*Written November 24, 2014*
 ####*By Nabiha Huq Saifee, PGY-2*
@@ -11,9 +14,11 @@
 * Coursera R programming course - part of the same JHU Data Science Specialization pathway.    
     + Good overview of R with quizes and programming projects that help solidify knowledge. 
     + See other advance course offerings: https://www.coursera.org/specialization/jhudatascience/1/courses
+    + Also some good information/tutorials at http://datasciencespecialization.github.io/
     
 * Swirl package http://swirlstats.com/ and https://github.com/swirldev/swirl_courses#swirl-courses  
     + Provides beginner, intermediate, and advanced tutorials for R  
+    + I completed the basic R programming and Intermediate Getting and Cleaning Data tutorials and thought they were great.
      
 * Introdution to data cleaning http://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf  
      +  Includes nice basic R overview to test your understanding of R
@@ -22,6 +27,7 @@
 
 * Use knitr with Rstudio.   
       + Watch introductory video on how to install and get started with Rstudio http://yihui.name/knitr/  
+      + Another introduction to knitr: https://sachsmc.github.io/knit-git-markr-guide/knitr/knit.html
      
 #####Resources for learning SQL: 
 
